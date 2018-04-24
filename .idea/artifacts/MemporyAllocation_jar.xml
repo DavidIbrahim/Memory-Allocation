@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MemporyAllocation:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MemporyAllocation_jar</output-path>
+    <root id="archive" name="MemporyAllocation.jar">
+      <element id="module-output" name="MemporyAllocation" />
+    </root>
+  </artifact>
+</component>
